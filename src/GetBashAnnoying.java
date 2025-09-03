@@ -10,6 +10,7 @@ public class GetBashAnnoying
 				System.out.println("Did this work?");
 				String string = "String";
 				System.out.println(string);
+				System.out.println("9/3 Test");
 			}
 
 	}
